@@ -1,0 +1,13 @@
+{
+  "id" : "hoymiles",
+  "name" : "Hoymiles",
+  "description" : "Plugin pour récupérer les valeurs et de commander des micro-onduleur hoymiles",
+  "licence" : "AGPL",
+  "author" : "Piranas",
+  "require" : "4.3",
+  "category" : "energy",
+  "changelog" : "",
+  "documentation" : "",
+  "language" : "",
+  "compatibility" : ""
+}
